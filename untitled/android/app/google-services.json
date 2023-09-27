@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971632461714",
+    "project_id": "mugi-b14a4",
+    "storage_bucket": "mugi-b14a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971632461714:android:636d5e4b668afa6f9aa34b",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0uuSTxzpUYYqipGtBxAN2JP7CyNmeyfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
